@@ -1,6 +1,7 @@
 # Snowflake
 
-# Snowflake Data Engineering Mini Projects ❄️
+# Snowflake Data Engineering Mini Projects ❄️   
+[See another related project](https://github.com/Mbareck21/Snowflake-Python-Data-Engineering-Portfolio/tree/main)
 
 This repository contains a collection of SQL scripts demonstrating end-to-end Data Engineering workflows in Snowflake. These scripts simulate real-world scenarios involving event ticketing data, aimed at solving business problems through **ELT Pipelines**, **Automation**, **Data Modeling**, and **Optimization**.
 
