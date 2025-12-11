@@ -57,12 +57,6 @@ A demonstration of writing efficient SQL to save compute credits.
 
 ---
 
-## 💻 How to Run
-These scripts are designed to be run in a **Snowflake Worksheet**.
-1.  Ensure you have a standard Snowflake account (Standard Edition or higher).
-2.  Run the setup script at the top of each file (`USE DATABASE...`) to establish the environment.
-3.  Execute blocks sequentially to observe the transformations.
-
 ## 👤 Author
 **Mohamed Lemine Mbareck**
 *   [LinkedIn Profile](https://www.linkedin.com/in/lemine-mbareck/)
